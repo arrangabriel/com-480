@@ -91,3 +91,7 @@ lerna-debug.log
 Thumbs.db
 
 /env
+
+/datasets/events/events.csv
+/datasets/events/ginf.csv
+/datasets/transfers/transfers.csv
